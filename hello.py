@@ -21,10 +21,10 @@ print ("\n" "\n")
 #-------------------------------------
 
 #Dynamic typing (zzz)
-# x = 5
-# print(x)  
-# x = "Hello"
-# print(x)  
+x = 5
+print(x)  
+x = "Hello"
+print(x)  
 
 #-------------------------------------
 
